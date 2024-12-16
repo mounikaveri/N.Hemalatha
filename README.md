@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -57,9 +57,11 @@
 
         <div class="contact">
             <p>Email: hemalathaa@example.com</p>
-            <p>Phone: +91-1234567890</p>
-            <p>Location: Chennai, India</p>
-        </div>
+            <p>Phone: 7010222956</p>
+            <p>Location: Thanjavur,India</p> 
+            <p>Date of Birth: 16/04/2005</p>
+            
+            </div>
 
         <div class="section">
             <h2>Professional Summary</h2>
@@ -69,27 +71,22 @@
         <div class="section">
             <h2>Skills</h2>
             <ul>
-                <li>Skill 1</li>
-                <li>Skill 2</li>
-                <li>Skill 3</li>
-                <li>Skill 4</li>
+                <li>Skill java</li>
+                <li>Skill c++</li>
+                
             </ul>
         </div>
 
-        <div class="section">
-            <h2>Work Experience</h2>
-            <p><strong>Job Title</strong> - Company Name</p>
-            <p><em>Month Year - Month Year</em></p>
-            <ul>
-                <li>Responsibility/achievement 1</li>
-                <li>Responsibility/achievement 2</li>
-            </ul>
+        <div class="BSc">
+            <h2>qualification: BSc Computer science</h2>
+            <p>hobby: IT work - Company Name</p>
+        
         </div>
 
-        <div class="section">
-            <h2>Education</h2>
-            <p><strong>Degree</strong> - Institution Name</p>
-            <p><em>Month Year - Month Year</em></p>
+        <div class="BSc">
+            <h2>Education: IT work</h2>
+            <p><strong>Degree: Computer science</strong> - 
+            <h2>qualification: Type Writing: English junior, senior</h2>                   
         </div>
 
         <div class="footer">
@@ -97,4 +94,4 @@
         </div>
     </div>
 </body>
-</html>
+</html>￼Enter
